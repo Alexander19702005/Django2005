@@ -34,3 +34,4 @@
 Описано [здесь](./HOW_TO_WORK.md).
 # Django2005
 # Django1970
+# Django2005
